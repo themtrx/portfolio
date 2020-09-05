@@ -25,7 +25,6 @@ const Header = () => {
                             <FontAwesomeIcon
                                 icon={faGithubSquare}
                                 color='#000'
-                                size='20px'
                                 className={style.icons}
                             />    
                         </Nav.Link>
@@ -33,7 +32,6 @@ const Header = () => {
                             <FontAwesomeIcon 
                                 icon={faLinkedin}
                                 color='#000'
-                                size='20px'
                                 className={style.icons}
                             />
                         </Nav.Link>
