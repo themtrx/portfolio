@@ -4,6 +4,10 @@
     background: #6C63FF;
 }
 
+.footer img{
+    margin-bottom: 10px;
+}
+
 .col-center {
     text-align:center;
     color: #C4C0FB;

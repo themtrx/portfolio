@@ -8,7 +8,7 @@ import style from './index.module.css'
 const Header = () => {
     return (
         <>
-            <header>
+            <header className={style.header}>
                 <Navbar className={style['custom-mobile']}>
                 <Navbar.Brand href="#">
                     <img
