@@ -5,6 +5,7 @@ import style from './index.module.css'
 import Footer from '../../components/footer'
 import Hero from '../../components/hero'
 import DescriptionSection from '../../components/description'
+import Projects from '../../components/projects'
 
 const MainPage = () => {
     return(
@@ -18,6 +19,7 @@ const MainPage = () => {
             </Container>
             <Hero/>
             <DescriptionSection />
+            <Projects />
             <Footer/>
         </>
     )
