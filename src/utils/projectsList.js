@@ -1,19 +1,23 @@
+import cookPic from '../img/cook.jpg'
+import ecommercePic from '../img/e-commerce.jpg'
+import gamePic from '../img/game.jpg'
+
 export default [
     {   
-        imgURL: 'https://via.placeholder.com/150',
+        imgURL: cookPic,
         description: 'Basic recepie website',
-        buttonURL: '#',
+        buttonURL: 'https://github.com/themtrx/FinalProject',
         alt: 'Recepie website picture'
     },
     {   
-        imgURL: 'https://via.placeholder.com/150',
-        description: 'Not Ready Yet...',
+        imgURL: ecommercePic,
+        description: 'E-Commerce website - Not ready yet...',
         buttonURL: '',
         alt: 'Default picture for not ready project'
     },
     {   
-        imgURL: 'https://via.placeholder.com/150',
-        description: 'Not Ready Yet...',
+        imgURL: gamePic,
+        description: 'Simple game - Not ready yet...',
         buttonURL: '',
         alt: 'Default picture for not ready project'
     }
