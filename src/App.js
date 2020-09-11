@@ -1,11 +1,11 @@
 import React from 'react'
 import 'bootstrap/dist/css/bootstrap.min.css'
-import MainPage from './pages/main'
+import Routing from './routing';
 
 function App() {
   return (
     <>
-      <MainPage/>
+      <Routing/>
     </>
   );
 }
