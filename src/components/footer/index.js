@@ -27,26 +27,26 @@ const Footer = () => {
                     <Row>
                         <Col xs={12} className={colCenterStyle}>
                             <p>This website is created by me &#169;themtrx</p>
-                            <p>You can check the source code <a href="https://github.com/themtrx/portfolio">here</a></p>
+                            <p>You can check the source code <a href="https://github.com/themtrx/portfolio" target="_blank">here</a></p>
                         </Col>
                     </Row>
                     <Row >
                         <Col xs={12} className={colCenterStyle}>
-                            <a href="https://www.linkedin.com/in/d-st-dimitrov/">
+                            <a href="https://www.linkedin.com/in/d-st-dimitrov/" target="_blank">
                                 <FontAwesomeIcon
                                     icon={faLinkedin}
                                     color='#C4C0FB'
                                     className={iconStyle}
                                 />
                             </a>
-                            <a href="https://github.com/themtrx">
+                            <a href="https://github.com/themtrx" target="_blank">
                                 <FontAwesomeIcon
                                     icon={faGithubSquare}
                                     color='#C4C0FB'
                                     className={iconStyle}
                                 />
                             </a>
-                            <a href="mailto:dim.st.dimitrov@gmail.com">
+                            <a href="mailto:dim.st.dimitrov@gmail.com" target="_blank">
                                 <FontAwesomeIcon
                                     icon={faEnvelope}
                                     color='#C4C0FB'

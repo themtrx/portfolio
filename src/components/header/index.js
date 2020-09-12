@@ -31,7 +31,7 @@ const Header = () => {
                                             className={style.icons}
                                         />    
                                     </Nav.Link>
-                                    <Nav.Link href="https://www.linkedin.com/in/d-st-dimitrov/">
+                                    <Nav.Link href="https://www.linkedin.com/in/d-st-dimitrov/" target="_blank">
                                         <FontAwesomeIcon 
                                             icon={faLinkedin}
                                             color='#000'

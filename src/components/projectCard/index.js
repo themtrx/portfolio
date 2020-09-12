@@ -11,7 +11,7 @@ const ProjectCard = (props) => {
                     <img src={props.imgURL} alt={props.alt}/>
                     <figcaption className={style.figcaption}>
                         <h4>{props.description}</h4>
-                        {props.buttonURL?<a href={props.buttonURL}>Check it</a>: null}
+                        {props.buttonURL?<a href={props.buttonURL} target="_blank">Check it</a>: null}
                     </figcaption>
                     <div className={style.overlay}></div>
                 </figure>
