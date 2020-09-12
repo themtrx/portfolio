@@ -1,8 +1,8 @@
 # Basic portfolio website
 
 I am using React and ReactBootstrap.
-There is no server side. No need for now
-I have idea to build Admin panel for easier page content update.
+There is no server side. No need for now.
+For next version I have idea to build Admin panel for easier page content update.
 Then I will need to create backend.
 
 ## Pages
