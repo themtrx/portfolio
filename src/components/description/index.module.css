@@ -13,3 +13,11 @@
 .jumbotron p {
     font-size: 1.2rem;
 }
+
+.jumbotron h3 {
+    margin: 0;
+    text-align: right;
+    font-size: 1.5rem;
+    font-style: italic;
+    font-weight: normal;
+}

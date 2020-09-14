@@ -9,13 +9,13 @@ const DescriptionSection = () => {
             <section className={style['descript-section']}>
                 <Jumbotron fluid className={style.jumbotron}>
                     <Container>
-                        <h3>Hello, my name is Dimitar</h3>
                         <p>
-                            I love arts in all its forms and I think the programming is one of these forms. It is one modern way to express yourself.
-                            It doesn't matter if you are part of symphonic orchestra or small rock band. Every member leaves part of his soul in the final melody.
-                            It doesn't matter what tools are you using - paint, gypsum, notes, brass or JavaScript. 
-                            It matters what feelings you leave in the one who looks at your picture, touches your statue, listens your music or uses your app.
+                            I love art in all its forms and programming is one of those forms. Art is a way to express yourself.
+                            It doesn't matter if you are part of symphonic orchestra or a development team. Every member leaves peace of his soul and heart in the final product.
+                            It doesn't matter what tools you are using - paint, gypsum, violin or JavaScript. 
+                            What matters are the emotions people experience by looking at your picture, touching your statue, listening your music or using your app.
                         </p>
+                        <h3>Dimitar Dimitrov</h3>
                     </Container>
                 </Jumbotron>
                 <Skills/>
